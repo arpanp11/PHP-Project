@@ -1,0 +1,30 @@
+html { 
+          background: url(images/background.jpg) no-repeat center center fixed; 
+          -webkit-background-size: cover;
+          -moz-background-size: cover;
+          -o-background-size: cover;
+          background-size: cover;
+          }
+        
+          #header {
+              font-family: 'Merriweather', serif;
+          }
+          
+          body {
+              background: none;   
+          }
+          
+          .container {
+              text-align: center;
+              margin-top: 110px;
+              width: 500px; 
+          }
+          
+          input {
+              margin: 20px 0; 
+          }
+          
+          #weather { 
+              margin-top:15px; 
+          }
+        
